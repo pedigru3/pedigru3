@@ -3,6 +3,7 @@
 
 - 🔭 Hoje trabalho com Edição de vídeo e Design
 - 🌱 Há 6 meses estudando Flutter
+- Estudante na DevMidia
 
 <div align="left">
   <a href="https://github.com/pedigru3">
