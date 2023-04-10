@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Felipe Ferreira 👋
 
 
-- 🔭 Hoje trabalho com Edição de vídeo e Design
-- 🌱 Há 6 meses estudando Flutter
-- Estudante na DevMidia
+- 💻 Hoje trabalho na Verbus Comunicação, fazendo o que eu gosto que é desenvolver sites e apps.
+- 🌱 Há mais de 1 ano de experiência com programação.
+- 💡 Sempre aprendendo novas tecnologias
 
 <div align="left">
   <a href="https://github.com/pedigru3">
