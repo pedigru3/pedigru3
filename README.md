@@ -3,6 +3,7 @@
 
 - 💻 Hoje trabalho na Verbus Comunicação, fazendo o que eu gosto que é desenvolver sites e apps.
 - 🌱 Há mais de 1 ano de experiência com programação.
+- 📱 Apaixonado por Flutter
 - 💡 Sempre aprendendo novas tecnologias
 
 <div align="left">
